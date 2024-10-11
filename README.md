@@ -7,9 +7,9 @@
 <h3 align="center">
   <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
   &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 PHOENIXTECH 𝙒𝙊𝙍𝙇𝘿 &nbsp;
-  <img src="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/xenon.jpg" width="25"> 
+  <img src="https://raw.githubusercontent.com/phoenixxenon/phoenixtech/main/xenon.jpg" width="25"> 
 </h3>
-<img align="center" alt="line" src="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/xenon.jpg">
+<img align="center" alt="line" src="https://raw.githubusercontent.com/phoenixxenon/phoenixtech/main/xenon.jpg">
 
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=XENON-𝐓𝐄𝐂𝐇" />
