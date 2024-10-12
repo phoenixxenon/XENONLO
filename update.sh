@@ -30,7 +30,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/ubuntu/menu.zip
+    wget https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin

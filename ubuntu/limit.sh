@@ -1,4 +1,4 @@
-REPO="https://raw.githubusercontent.com/phoenixxenon/strategic/main/"
+REPO="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/"
 wget -q -O /etc/systemd/system/limitvmess.service "${REPO}ubuntu/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limitvless.service "${REPO}ubuntu/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limittrojan.service "${REPO}ubuntu/limittrojan.service" && chmod +x limittrojan.service >/dev/null 2>&1
