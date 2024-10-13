@@ -1,7 +1,7 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » 🗽🥷🎮🧑‍💻🔫Cyberpunk🥷🧑‍💻🗽xenonlo
+# Develovers » 🗽🥷🎮🧑‍💻🔫TECH PHOENIX🥷🧑‍💻🗽XENON
 # Email      » tuffgamer65@gmail.com
 # telegram   » https://t.me/xenonlo
 # whatsapp   » wa.me/++254705470210
@@ -33,8 +33,8 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${GRAY} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ☁️☁️🔫☁️♾️🗽🥸🥷🧑‍💻🏴‍☠️🧑‍💻☁️☁️☁️☁️xenonlo INFINITE 𝐒𝐓𝐎𝐑𝐄 ${NC}"
-echo -e "  Author : ${RED}⛷️🏄🏂🖥️🐼☣️⛽🛸🧑‍💻🏴‍☠️🥷🥸🗽♾️🔫🎮☁️☁️ Cyberpunkxenonlo ${NC}${YELLOW}${NC}"
+echo -e "  Script : ${GRAY} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ☁️☁️🔫☁️♾️🗽🥸🥷🧑‍💻🏴‍☠️🧑‍💻☁️☁️☁️☁️XENON INFINITE 𝐒𝐓𝐎𝐑𝐄 ${NC}"
+echo -e "  Author : ${RED}⛷️🏄🏂🖥️🐼☣️⛽🛸🧑‍💻🏴‍☠️🥷🥸🗽♾️🔫🎮☁️☁️ XENON ${NC}${YELLOW}${NC}"
 echo -e "  ©2024  : ${BLUE} VVIP☁️🎮🔫♾️🗽🥸🥷🏴‍☠️🧑‍💻🏂🏄⛷️☣️🐼⌨️💻🪩🌐🌊 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
@@ -321,7 +321,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ Cloud cyberpunk STORE</b>
+<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ XENON STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
@@ -331,7 +331,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ Cloud cyberpunk STORE</b>
+<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ XENON STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/++254705470210"}]]}' 
