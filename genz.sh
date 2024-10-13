@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » 🗽🥷🎮🧑‍💻🔫Cyberpunk🥷🧑‍💻🗽TOpPLUG
+# Develovers » 🗽🥷🎮🧑‍💻🔫Cyberpunk🥷🧑‍💻🗽xenonlo
 # Email      » tuffgamer65@gmail.com
 # telegram   » https://t.me/xenonlo
-# whatsapp   » wa.me/+254705470210
+# whatsapp   » wa.me/++254705470210
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🧑‍💻🏴‍☠️🥷🗽 𝛸𝛯𝛮𝛩𝛮™️ script 🧑‍💻🏴‍☠️🥷🗽
+# 🧑‍💻🏴‍☠️🥷🗽 xenonlo script 🧑‍💻🏴‍☠️🥷🗽
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -33,8 +33,8 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${GRAY} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ☁️☁️🔫☁️♾️🗽🥸🥷🧑‍💻🏴‍☠️🧑‍💻☁️☁️☁️☁️TOpPLUG INFINITE 𝐒𝐓𝐎𝐑𝐄 ${NC}"
-echo -e "  Author : ${RED}⛷️🏄🏂🖥️🐼☣️⛽🛸🧑‍💻🏴‍☠️🥷🥸🗽♾️🔫🎮☁️☁️ CyberpunkTOpPLUG ${NC}${YELLOW}${NC}"
+echo -e "  Script : ${GRAY} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ☁️☁️🔫☁️♾️🗽🥸🥷🧑‍💻🏴‍☠️🧑‍💻☁️☁️☁️☁️xenonlo INFINITE 𝐒𝐓𝐎𝐑𝐄 ${NC}"
+echo -e "  Author : ${RED}⛷️🏄🏂🖥️🐼☣️⛽🛸🧑‍💻🏴‍☠️🥷🥸🗽♾️🔫🎮☁️☁️ Cyberpunkxenonlo ${NC}${YELLOW}${NC}"
 echo -e "  ©2024  : ${BLUE} VVIP☁️🎮🔫♾️🗽🥸🥷🏴‍☠️🧑‍💻🏂🏄⛷️☣️🐼⌨️💻🪩🌐🌊 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
@@ -278,7 +278,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/phoenixxenon/XENONLO/keygen"
+izinsc="https://raw.githubusercontent.com/phoenixxenon/XENONLO/main/keygen"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -315,8 +315,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="1766050144"
-KEY="8073057681:AAGHvjVjHHWxW22WCIdgNr6xZkZ9TOZk6pA"
+CHATID="6323289224"
+KEY="7881208783:AAHbTd8GwARTBt_1HzsRLzaXLe07TKXDkqY"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
@@ -334,7 +334,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ Cloud cyberpunk STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+254112386921"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/++254705470210"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }

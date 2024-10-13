@@ -1,6 +1,6 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Author  : HE3ndrixx 
+# Author  : chapeey tech
 # (C) Copyright 2024
 # =========================================
 
@@ -18,7 +18,7 @@ clear
 #	 menu
 #else
 
-echo -e "Installing 𝐓𝐂𝐏 HE3ndrixx  𝐒𝐓𝐎𝐑𝐄"
+echo -e "Installing 𝐓𝐂𝐏 𝐁𝐁𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐂𝐇𝐀𝐏𝐄𝐄𝐘 𝐒𝐓𝐎𝐑𝐄"
 echo -e "Please Wait BBR Installation Will Starting . . ."
 sleep 5
 clear
