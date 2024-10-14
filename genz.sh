@@ -17,7 +17,7 @@ GREENBG="\033[42;37m"
 REDBG="\033[41;37m"
 OK="${Green}  »${FONT}"
 ERROR="${RED}[ERROR]${FONT}"
-GRAY="\e[1;30m"
+RED="\e[1;30m"
 NC='\e[0m'
 red='\e[1;31m'
 green='\e[0;32m'
@@ -33,9 +33,9 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${GRAY} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ☁️☁️🔫☁️♾️🗽🥸🥷🧑‍💻🏴‍☠️🧑‍💻☁️☁️☁️☁️XENON INFINITE 𝐒𝐓𝐎𝐑𝐄 ${NC}"
-echo -e "  Author : ${RED}⛷️🏄🏂🖥️🐼☣️⛽🛸🧑‍💻🏴‍☠️🥷🥸🗽♾️🔫🎮☁️☁️ XENON ${NC}${YELLOW}${NC}"
-echo -e "  ©2024  : ${BLUE} VVIP☁️🎮🔫♾️🗽🥸🥷🏴‍☠️🧑‍💻🏂🏄⛷️☣️🐼⌨️💻🪩🌐🌊 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 ${NC}"
+echo -e "  Script : ${GRAY} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 🔫☁️🏴‍☠🧑‍💻☁XENON INFINITE 𝐒𝐓𝐎𝐑𝐄 ${NC}"
+echo -e "  Author : ${RED}⛷️🏄🏂🖥️🐼☣️⛽🏴‍☠️🥷🥸🗽🔫🎮☁️☁️ XENON ${NC}${YELLOW}${NC}"
+echo -e "  ©2024  : ${BLUE} VVIP☁️🎮🔫♾️🗽🥸🥷🏴‍☠️🏄⛷️☣️🐼⌨️💻🪩🌐🌊 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
