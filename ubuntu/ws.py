@@ -12,7 +12,7 @@ except:
 PASS = ''
 BUFLEN = 8196 * 8
 TIMEOUT = 60
-MSG = 'POWERED BY CHAPEEY'
+MSG = 'POWERED BY XENON'
 COR = '<font color="#30e528">'
 FTAG = '</font>'
 DEFAULT_HOST = '0.0.0.0:22'
